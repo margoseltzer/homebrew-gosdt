@@ -4,9 +4,9 @@
 
 class Gosdt < Formula
   desc "Generalized Optimal Sparse Decisio Trees."
-  homepage "https://github.com/margoseltzer/homebrew-sbrlmod/wiki"
-  url "https://github.com/margoseltzer/homebrew-sbrlmod/files/175070/sbrlmod-1.0.tar.gz"
-  version "1.0"
+  homepage "https://github.com/margoseltzer/homebrew-gosdt"
+  url "https://github.com/margoseltzer/homebrew-gosdt/blob/master/gosdt.tar.gz"
+  version "0.1"
   sha256 "9eec103ed577189f99e34b957b00f01dc0c72bcf1d9b0f0c1d4eb466ab6627d4"
   # depends_on "cmake" => :build
   depends_on "boost"
