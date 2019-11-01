@@ -2,7 +2,7 @@
 #                http://www.rubydoc.info/github/Homebrew/homebrew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class GOSDT < Formula
+class Gosdt < Formula
   version "0.1"
   desc "Generalized Optimal Sparse Decisio Trees"
   homepage "https://github.com/margoseltzer/homebrew-gosdt"
