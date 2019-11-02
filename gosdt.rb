@@ -7,9 +7,10 @@ class Gosdt < Formula
   desc "Generalized Optimal Sparse Decisio Trees"
   homepage "https://github.com/margoseltzer/homebrew-gosdt"
 
-  url "https://github.com/margoseltzer/homebrew-gosdt/blob/master/gosdt-0.1.0.tar.gz"
-  sha256 "cfffa9eb600fd69b0d026c219d69295ff3b60530ee5b7bb4666632ca35e6a336"
+  url "https://github.com/margoseltzer/homebrew-gosdt/raw/master/gosdt-0.1.0.tar.gz"
+  sha256 "4ce6982fce5cce2aa530c9f4d8db571a274ddab746e18e5546cec02f08a8c735"
 
+  
   depends_on "boost"
   depends_on "tbb"
 
